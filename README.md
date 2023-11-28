@@ -1,4 +1,4 @@
-remote_theme: time-machine
+theme: jekyll-theme-time-machine
 # Не нужно бояться начинать с чего-то нового.
 
 А если есть страх, то нужно идти, действовать, несмотря ни на что
